@@ -1,0 +1,25 @@
+*,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background: rgb(190, 194, 200);
+}
+
+div {
+    width: 300px;
+}
+
+
+.block {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background: red;  
+}
+
+
